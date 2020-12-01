@@ -1,0 +1,36 @@
+body {
+  background: #000;
+}
+p {
+  color: ghostwhite;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: whitesmoke;
+  text-align: center;
+  font-weight: old;
+  height: auto;
+}
+a {
+  color: ghostwhite;
+}
+.class {
+  color: ghostwhite;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  color: ghostwhite;
+}
+ol li {
+  color: ghostwhite;
+}
+tr {
+  color: ghostwhite;
+}
